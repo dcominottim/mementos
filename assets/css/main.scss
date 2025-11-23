@@ -21,3 +21,7 @@ html {
 button, input, .nav-item {
   text-align: center; // or left
 }
+
+.sidebar {
+    width: calc(300px - 4em);
+}
