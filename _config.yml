@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Danilo Cominotti Marques"
+  name   : "Danilo C. Marques"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "my gentle thought fragments about computers, art, and foolishness."
   links:
