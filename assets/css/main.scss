@@ -20,8 +20,10 @@ html {
 // Reset specific UI elements
 button, input, .nav-item {
   text-align: center; // or left
+  white-space: nowrap;
+  hyphens: none;
 }
 
 .sidebar {
-    width: calc(300px - 4em);
+    width: calc(300px - 1em);
 }
