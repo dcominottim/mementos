@@ -99,6 +99,7 @@ defaults:
       share: true
       related: false
       show_date: true
+      toc: true
   # _pages
   - scope:
       path: "_pages"
