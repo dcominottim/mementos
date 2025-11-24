@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: mementos
-repository: dcominottim/mementos
+repository: "dcominottim/mementos"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   gentle thought fragments about computers, art, and foolishness
@@ -117,10 +117,10 @@ tag_archive:
 comments:
   provider: "giscus"
   giscus:
-    repo_id              : R_kgDOMuDWEg # Shown during giscus setup at https://giscus.app
-    category_name        : Announcements # Full text name of the category
-    category_id          : DIC_kwDOMuDWEs4CyIep # Shown during giscus setup at https://giscus.app
-    discussion_term      : pathname # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
-    theme                : dark # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    repo_id              : "R_kgDOMuDWEg" # Shown during giscus setup at https://giscus.app
+    category_name        : "Announcements" # Full text name of the category
+    category_id          : "DIC_kwDOMuDWEs4CyIep" # Shown during giscus setup at https://giscus.app
+    discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : "1" # '1' for enabled (default), '0' for disabled
+    theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
 
